@@ -1,2 +1,18 @@
 # bot-localisation
-Translation information used in the Discord bot.
+
+### Current languages supported
+- English
+- French
+- Spanish
+- German
+- Portuguese
+- Italian
+- Dutch
+- Polish
+- Russian
+
+### Adding a language
+...
+
+### Modifying translations
+...
